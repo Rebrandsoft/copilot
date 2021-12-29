@@ -34,7 +34,6 @@ namespace CoPilot
             
 
             var collapsingHeaderFlags = ImGuiTreeNodeFlags.CollapsingHeader;
-            ImGui.Text("Plugin by Totalschaden. https://github.com/totalschaden/copilot");
 
             try
             {
